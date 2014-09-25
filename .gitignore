@@ -1,2 +1,7 @@
-google-docs-suspect.txt
-google-docs-changed.txt
+google-docs-*.txt
+
+sisloc-f*.csv
+sisloc-t*.csv
+
+sisloc-planilha.xlsx
+*.tsv
