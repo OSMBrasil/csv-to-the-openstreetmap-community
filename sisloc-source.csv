@@ -1,0 +1,367 @@
+name;postal_code;population;LONGITUD;LATITUDE;place
+Aldeia Linha 10;110010;52;-65.362763;-1.0548049;village
+Aldeia Lage  Velho;110010;94;-64.993268;-1.0580335;village
+Terceira Linha Do Iata;110010;130;-65.34300656;-1.058386771;farm
+Segunda Linha Do Iata;110010;177;-65.36089405;-1.058495442;farm
+Primeira Linha  Do Iata;110010;247;-65.37795474;-1.058595112;farm
+Nucleo Do Iata;110010;348;-65.38237477;-1.058707772;hamlet
+Aldeia Lages;110010;184;-65.01588377;-1.062370225;village
+Ramal Santa Luzia;110010;42;-65.07862173;-1.067906552;farm
+Serra Verde;110010;18;-65.12336996;-1.070754335;farm
+Nona Linha Do Iata;110010;23;-65.13177959;-1.0707732;farm
+Ramal Bom Sossego;110010;54;-65.16906003;-1.0709751;farm
+Ramal Do João Do Bicho;110010;16;-64.89071779;-1.071060339;farm
+Setima Linha Do Iata;110010;90;-65.24479111;-1.0710664;farm
+Oitava Linha Do Iata;110010;78;-65.20703843;-1.071121885;farm
+Ramal Do Macaco;110010;10;-64.90573106;-1.071751552;farm
+Ramal Do Cearense;110010;9;-64.94286985;-1.073359558;farm
+Planalto;110010;2073;-65.31944076;-1.076190221;suburb
+Jardim Das Esmeraldas;110010;4367;-65.30483395;-1.076341775;suburb
+Prospero;110010;2751;-65.30963385;-1.076626002;suburb
+Caetano;110010;1806;-65.32751128;-1.076766553;suburb
+Liberdade;110010;2516;-65.31590368;-1.076897774;suburb
+Nossa Senhora De Fatima;110010;2322;-65.31244992;-1.077607228;suburb
+10 De Abril;110010;2527;-65.31944931;-1.0776541;suburb
+Tamandaré;110010;3502;-65.33807415;-1.077711223;suburb
+Serraria;110010;2650;-65.32888314;-1.077910882;suburb
+Santa Luzia;110010;3899;-65.31981191;-1.078421336;suburb
+Cristo Rei;110010;898;-65.34764737;-1.078457337;suburb
+Santo Antonio;110010;1332;-65.32694793;-1.078764225;suburb
+Sao Jose;110010;2509;-65.33395889;-1.078811665;suburb
+Centro;110010;1316;-65.34322743;-1.078929995;suburb
+Triangulo;110010;1228;-65.34094447;-1.0794468;suburb
+Aldeia Cajueiro;110010;37;-65.298442;-1.0837977;village
+Aldeia Capoeirinha;110010;60;-65.268999;-1.0875552;village
+Aldeia Pitop;110010;24;-65.236668;-1.0921742;village
+Aldeia Tanajura;110010;194;-65.222337;-1.0992692;village
+Aldeia Graças A Deus;110010;30;-65.054386;-1.1064869;village
+Aldeia São Luiz;110010;55;-64.081475;-1.1087254;village
+Aldeia Quatorze;110010;9;-65.245658;-1.1103151;village
+Aldeia  Santo Andre;110010;286;-65.016879;-1.1161303;village
+Aldeia Rio Negro Ocaia;110010;518;-64.835769;-1.1184553;village
+Aldeia Deolinda;110010;92;-65.317998;-1.1206262;village
+Aldeia Bom Futuro;110010;54;-64.971136;-1.1211478;village
+Aldeia Sotério;110010;317;-65.133003;-1.1616784;village
+Aldeia Sagarana;110010;211;-64.992009;-1.1911945;village
+Aldeia Ricardo Franco;110010;322;-64.8286;-1.2017065;village
+Aldeia Baia Da Coca;110010;103;-64.769432;-1.2071771;village
+Aldeia Baia Das Onças;110010;74;-64.707555;-1.2079705;village
+Sao Francisco De Calama;110020;680;-62.87524434;-8.027746442;suburb
+Nazare (P.D.S. Nazaré E Boa Vitória - Ro0143000);110020;466;-63.31997946;-8.1661882;allotments
+Demarcacao (Rio Machado);110020;183;-62.78028238;-8.1683303;village
+Sao Carlos - Rio Madeira;110020;1880;-63.49845441;-8.435965008;hamlet
+Cujubim Grande;110020;224;-63.73042522;-8.583616443;farm
+Agrovila (P.A. Aliança - Ro0100000);110020;226;-63.54052285;-8.607903881;allotments
+Alianca - Rio Madeira (P.A. Aliança - Ro0100000);110020;48;-62.78028238;-8.619170227;allotments
+Niteroi (Rio Madeira);110020;67;-63.92335104;-8.668820888;farm
+Linha Transpurus;110020;27;-64.07323081;-8.677662557;locality
+Nova Esperanca - Base Aerea;110020;153;-63.89779281;-8.710165002;suburb
+Nova Esperanca;110020;5199;-63.88284301;-8.721433663;suburb
+Maravilha (Rio Madeira);110020;143;-63.92785197;-8.724246777;farm
+Nacional;110020;7647;-63.90908813;-8.727152882;suburb
+Planalto;110020;2325;-63.84243392;-8.735394447;suburb
+Rio Madeira;110020;4650;-63.87186431;-8.735730117;suburb
+Industrial;110020;2658;-63.88379669;-8.736234666;suburb
+Aponia;110020;18012;-63.85691007;-8.736234666;suburb
+Costa E Silva (Conquista);110020;6237;-63.89572525;-8.736571331;suburb
+Teixeirao;110020;1209;-63.83973693;-8.739604994;suburb
+Sao Sebastiao;110020;5658;-63.90829467;-8.739766112;suburb
+Pedrinhas;110020;4473;-63.90738677;-8.745995552;suburb
+Liberdade;110020;5448;-63.89051818;-8.746698337;suburb
+Esperanca Da Comunidade(Teixeirao);110020;3978;-63.84479904;-8.746774667;suburb
+Sao Joao Bosco;110020;9246;-63.89831542;-8.746793774;suburb
+Flodoaldo Pontes Pinto;110020;11967;-63.87029266;-8.746825221;suburb
+Igarape;110020;10257;-63.85688781;-8.746952005;suburb
+Panair;110020;1842;-63.91391372;-8.747752118;suburb
+Pantanal (Planalto);110020;1851;-63.83480453;-8.747816008;suburb
+Embratel;110020;14154;-63.88082504;-8.749862667;suburb
+Escola De Policia;110020;2004;-63.84049224;-8.752392776;suburb
+Olaria;110020;7218;-63.90515899;-8.755048775;suburb
+Cuniã;110020;6243;-63.854496;-8.7550497;suburb
+Jardim Santana;110020;6852;-63.81839337;-8.756053992;suburb
+Sao Cristovão;110020;8562;-63.89233779;-8.756250338;suburb
+Arigolandia;110020;1662;-63.91142272;-8.756284771;suburb
+Tiradentes;110020;3654;-63.84426498;-8.757016118;suburb
+Socialista;110020;7527;-63.82757949;-8.759338337;suburb
+Tancredo Neves;110020;9756;-63.83811569;-8.760909008;suburb
+Caiari;110020;1036;-63.90598297;-8.761059776;suburb
+Agenor De Carvalho;110020;15228;-63.86711112;-8.761497449;suburb
+Nossa Sra. Das Gracas;110020;7839;-63.88964843;-8.762808779;suburb
+Km 01;110020;1812;-63.89595794;-8.763027119;suburb
+Centro;110020;5115;-63.90370941;-8.764229777;suburb
+Lagoinha;110020;11835;-63.85094833;-8.764908779;suburb
+Nova Porto Velho;110020;14748;-63.87807083;-8.7654314;suburb
+Santa Barbara;110020;1254;-63.89691543;-8.766796111;suburb
+Mocambo;110020;1275;-63.90158081;-8.768112118;suburb
+Jk - Juscelino Kubitschek;110020;10455;-63.83703613;-8.769335774;suburb
+Mato Grosso;110020;4086;-63.89093017;-8.770249336;suburb
+Ulisses Guimaraes;110020;5478;-63.80245559;-8.770906444;suburb
+Roque;110020;1788;-63.88636398;-8.772762229;suburb
+Baixa Da Uniao;110020;3441;-63.90482333;-8.772769992;suburb
+Areal;110020;7443;-63.89777374;-8.772961661;suburb
+Lagoa;110020;13;-63.86445999;-8.7746205;suburb
+Mariana;110020;14055;-63.81528854;-8.775476445;suburb
+Ronaldo Aragao;110020;2307;-63.79421234;-8.776905005;suburb
+Tres Maria;110020;6441;-63.84865188;-8.777333225;suburb
+Sao Francisco;110020;10509;-63.82730865;-8.777476331;suburb
+Floresta;110020;8223;-63.88084793;-8.779046005;suburb
+Cascalheira;110020;3129;-63.83554884;-8.779047001;suburb
+Tucumanzal;110020;3462;-63.89567184;-8.779605886;suburb
+Marcos Freire;110020;5049;-63.80556106;-8.780046446;suburb
+Tupi;110020;1542;-63.89893722;-8.7819905;suburb
+Jardim Eldorado;110020;4173;-63.86602002;-8.784458116;suburb
+Nova Floresta;110020;9714;-63.89020156;-8.787070227;suburb
+Cohab;110020;11589;-63.87519836;-8.792109448;city_block 
+Militar (5º Bec);110020;783;-63.91069003;-8.792277333;hamlet
+Eletronorte;110020;7251;-63.89845275;-8.792778001;suburb
+Cidade Jardim;110020;603;-63.81747817;-8.792855226;suburb
+Triangulo;110020;3819;-63.92197418;-8.793781228;suburb
+Conceicao (D. Joao Costa);110020;8946;-63.88925117;-8.798292116;suburb
+Areia Branca;110020;1647;-63.90699005;-8.803707112;hamlet
+Cidade Do Lobo;110020;4227;-63.88498306;-8.804808661;suburb
+Caladinho;110020;15999;-63.88128228;-8.8096551;suburb
+Novo Horizonte;110020;3528;-63.89389801;-8.809822008;suburb
+Cidade Nova;110020;7539;-63.87872314;-8.811326002;suburb
+Castanheira;110020;13014;-63.86813735;-8.8506559;suburb
+Aeroclube;110020;2625;-63.85842895;-8.8506559;suburb
+Cachoeira Do Teotonio M.D Rio Madeira;110020;104;-64.06116736;-8.862084003;village
+Linha 03 (P.A. Joana D`Arc I - Ro0114000);110020;93;-64.18525791;-8.950556999;allotments
+Linha 05 (P.A. Joana D`Arc I - Ro0114000);110020;111;-64.23233735;-8.954731336;allotments
+Linha 07 (P.A. Joana D`Arc I - Ro0114000);110020;122;-64.28290947;-8.955382997;allotments
+Linha 09 (P.A. Joana D`Arc I - Ro0114000);110020;133;-64.32060687;-8.973837885;allotments
+Linha 11 (P.A. Joana D`Arc Ii - Ro0114000);110020;224;-64.35176663;-9.006880555;allotments
+Linha 13 (P.A. Joana D`Arc Ii - Ro0114000);110020;92;-64.37969771;-9.037667557;allotments
+Linha 15 (P.A. Joana D`Arc Iii - Ro0115000);110020;143;-64.41875019;-9.063129662;allotments
+Linha 17 (P.A. Joana D`Arc Iii - Ro0115000);110020;239;-64.47262655;-9.073053114;allotments
+Linha 19 (P.A. Joana D`Arc Ii - Ro0114000);110020;105;-64.46854934;-9.141512773;allotments
+Jacy Parana (Velha-Jacy);110020;7444;-64.40131886;-9.257186441;hamlet
+Imbauba Br-364 Km 126;110020;59;-64.68884222;-9.4614999;farm
+Mineração São Lourenço;110020;120;-65.06859856;-9.477097114;isolated_dwelling
+Linha 06-Rio Pardo;110020;22;-63.90367846;-9.481885006;locality
+Linha 17-Rio Pardo;110020;13;-64.20151229;-9.510325775;locality
+Linha 05-Rio Pardo;110020;90;-63.89917449;-9.514512669;locality
+Acampamento Palmeiral;110020;8;-64.81294987;-9.516330772;isolated_dwelling
+Linha 16-Rio Pardo;110020;18;-64.09354457;-9.5259407;locality
+Linha Do Pavão;110020;113;-64.55288229;-9.5295098;locality
+Linha 15-Rio Pardo;110020;119;-64.05073443;-9.539806772;locality
+Linha 04-Rio Pardo;110020;110;-63.90190209;-9.542718774;locality
+Linha Do Tucano - Uniao Bandeirantes;110020;54;-64.52282513;-9.553318443;locality
+Linha 21 De Abril - Uniao Bandeirantes;110020;15;-64.48289634;-9.554929554;locality
+Linha Catorzinha-Rio Pardo-Linh;110020;21;-63.97686605;-9.559209882;locality
+Linha 03-Rio Pardo;110020;260;-63.89540321;-9.565815336;locality
+Rio  Contra - União Bandeirantes;110020;35;-64.44188453;-9.568962779;locality
+Linha 1 - União Bandeirantes;110020;323;-64.55946007;-9.575853558;locality
+Linha 14-Rio Pardo;110020;90;-64.01248945;-9.582495778;locality
+Linha 02-Rio Pardo;110020;280;-63.86392599;-9.590289776;locality
+Linha 13-Rio Pardo;110020;27;-63.99254902;-9.594848332;locality
+Linha Do Ferrugem;110020;90;-64.43870367;-9.598761883;locality
+Travessão 102 - Uniao Bandeirantes;110020;47;-64.40713229;-9.605736444;locality
+Linha 2 - União Bandeirantes;110020;98;-64.56729435;-9.611096556;locality
+Mutum - Paraná;110020;60;-64.94010213;-9.617944559;hamlet
+Linha Rio Branco - Rio Pardo;110020;119;-63.98425091;-9.626106992;locality
+Rio Pardo;110020;580;-63.96598887;-9.630227777;hamlet
+Linha 12-Rio Pardo;110020;8;-63.97045947;-9.631878555;locality
+Linha Abacaxi;110020;66;-64.43770967;-9.635726227;locality
+Linha 01-Rio Pardo;110020;90;-63.891449;-9.639070775;locality
+Travesão Do Triângulo - União Bandeirante;110020;79;-64.55316537;-9.642818665;locality
+Linha 11-Rio Pardo;110020;27;-63.96557703;-9.648998886;locality
+Vista Alegre Do Abuna;110020;3973;-65.73225096;-9.656353668;hamlet
+Linha 15 De Novembro - União Bandeirante;110020;17;-64.44570893;-9.668293992;locality
+Linha Zero-Rio Pardo-Linh;110020;78;-63.86615473;-9.671068887;locality
+Linha Triangulo - União Bandeirante;110020;113;-64.57043076;-9.671956889;locality
+Travessao 4 (Uniao Bandeirante);110020;7;-64.67324926;-9.686850221;locality
+Linha 10-Rio Pardo;110020;34;-63.86615473;-9.689835009;locality
+Linha F (Uniao Bandeirante);110020;154;-64.60212363;-9.693650118;locality
+Linha 09-Rio Pardo;110020;20;-63.931943;-9.697790993;locality
+Abunã;110020;419;-65.36934001;-9.698524335;hamlet
+União Bandeirante;110020;3810;-64.52971334;-9.706576992;hamlet
+Minas Novas - Rio Branco;110020;250;-64.08681667;-9.712858116;farm
+Linha 1-Buritis-Linh;110020;106;-64.044662;-9.719411115;locality
+Linha Eletronica-Rio Pardo;110020;118;-63.89338379;-9.732182224;locality
+Linha Uniao-Rio Pardo;110020;77;-63.93302212;-9.741069447;locality
+Nova California;110020;2650;-66.61388268;-9.755808558;hamlet
+Linha 1º De Maio - União Bandeirante;110020;62;-64.47308076;-9.7578558;locality
+Travessao 5 (Uniao Bandeirante) Lado Direito;110020;79;-64.63847498;-9.759593771;locality
+Extrema  - Vila;110020;539;-66.36011566;-9.771337882;hamlet
+Linha P.O - União Bandeirantes;110020;136;-64.50919774;-9.779376336;locality
+Fortaleza Do Abunã;110020;308;-65.52627246;-9.783612771;hamlet
+Travessao 6 (Uniao Bandeirante) Lado Direito;110020;117;-64.65824221;-9.788946332;locality
+Linhão - União Bandeirante;110020;373;-64.61088844;-9.820740889;locality
+Travessao 7 (Uniao Bandeirante);110020;166;-64.65816669;-9.8329141;locality
+Travessao 8 (Uniao Bandeirante);110020;147;-64.66763108;-9.870465554;locality
+Travessao 9 - Uniao Bandeirante Lado Direito;110020;129;-64.72601876;-9.893255773;locality
+Travessao 10 (Uniao Bandeirante);110020;99;-64.70647558;-9.945173447;locality
+Guajara;120005;110;-69.342442;-1.01826;village
+Santa Rosa-Rio Iaco;120005;87;-69.391007;-1.0251881;village
+Betel;120005;123;-69.493448;-1.0303229;village
+Cujubim;120005;44;-69.495553;-1.0313225;village
+Peri;120005;59;-69.502005;-1.0321888;village
+Jatoba;120005;141;-69.514558;-1.0322002;village
+Santa Cruz;120005;86;-69.5308;-1.03221;village
+Boca Do Mamoadate;120005;42;-69.5115;-1.0322772;village
+Laranjeira;120005;107;-69.535773;-1.0325226;village
+Agua Preta;120005;31;-69.551559;-1.0334885;village
+Alves Rodrigues;120005;54;-69.571888;-1.0341888;village
+Senegal;120005;15;-69.582881;-1.0350992;village
+Cumaru;120005;44;-70.4223;-1.0353558;village
+Lago Novo;120005;109;-70.043995;-1.0375996;village
+Extrema Rio Iaco;120005;212;-70.0809;-1.0390991;village
+Tres Cachoeira;120005;118;-69.513118;-1.0553118;village
+Boca Dos Patos;120005;27;-69.552227;-1.0553334;village
+Ananays F/P;120005;89;-69.495224;-1.0554224;village
+São Lourenço;120005;49;-69.474229;-1.0555992;village
+Sao Joao (Rio Lagoinha);120020;105;-72.296118;-7.42181;hamlet
+Igarape Do 24 (Rio Lagoinha);120020;54;-72.328776;-7.46602;hamlet
+Sacado De Baixo (Alto Rio Jurua);120020;47;-72.584006;-7.56583;hamlet
+Igarape Crôa (Rio Lagoinha);120020;45;-72.414886;-7.67008;hamlet
+C. São Pedro - Pds São Salvador;120033;131;-73.202983;-7.3707221;allotments
+Peri-Peri;120033;44;-73.172392;-7.37994;hamlet
+C. Timbauba - Pds São Savador;120033;162;-73.329234;-7.3866558;allotments
+C. Vai Quem Quer - Pds São Salvador;120033;34;-73.240714;-7.4035118;allotments
+Belo Monte;120033;91;-73.100481;-7.4044774;hamlet
+C. São Francisco - Pds. São Salvador;120033;58;-73.198229;-7.40992;allotments
+C. Conceição - Pds São Salvador;120033;72;-73.258616;-7.41114;allotments
+C. Boa Vista -Pds São Salvador;120033;55;-73.178895;-7.4120334;allotments
+C. Prosperidade - Pds São Salvador;120033;67;-73.215572;-7.4168886;allotments
+C. Da Sede - Pds São Salvador;120033;85;-73.229888;-7.4209229;allotments
+C. Girassol - Pds São Salvador;120033;38;-73.243308;-7.4231552;allotments
+Meia Duzia;120033;105;-73.322768;-7.42426;village
+Republica (Nukini);120033;225;-73.447473;-7.4311772;village
+C. Rio Azul - Pds São Salvador;120033;74;-73.285918;-7.4519771;allotments
+Serra Do Moa  F/P;120033;160;-73.639945;-7.4544999;hamlet
+Parana Do Pentecoste;120033;940;-72.954272;-7.4565883;allotments
+Aquidaban;120033;47;-73.359262;-7.46172;hamlet
+Gibraltar F/P;120033;166;-73.533426;-7.4696995;hamlet
+Tres Unidos;120033;81;-73.269915;-7.5114441;hamlet
+Ipiranga;120033;220;-73.9102;-7.5242442;village
+Barao;120033;550;-73.0753;-7.5340115;village
+Novo Recreio;120033;143;-73.4703;-7.5394558;hamlet
+Aurora;120033;13;-72.913735;-7.5594555;hamlet
+Sao Domingos;120033;272;-72.976998;-7.5614116;allotments
+Buriti;120033;34;-73.286027;-7.5741224;hamlet
+Isaque;120033;41;-72.985042;-7.5882883;allotments
+Iracema;120033;493;-72.935362;-7.5885772;suburb
+Colonia Do Vinte;120033;93;-73.059047;-7.5932447;allotments
+Sao Francisco;120033;2500;-72.924854;-7.5970119;suburb
+Sao Domingos I;120033;198;-72.950249;-7.5981772;allotments
+Colonia Normando;120033;73;-72.975363;-7.5996114;allotments
+Cardoso;120033;13;-72.948964;-7.6045553;allotments
+José Martins;120033;378;-72.914946;-7.6061999;suburb
+Colonia Gerico;120033;42;-72.969773;-7.6096777;allotments
+Belo Horizonte;120033;36;-73.302753;-7.6101778;hamlet
+Centro;120033;420;-72.9001;-7.6105448;suburb
+São Vidal;120033;793;-72.913593;-7.6172227;suburb
+Bandeirante;120033;682;-72.905267;-7.6182556;suburb
+Cobal;120033;192;-72.890779;-7.6188991;suburb
+Betânia;120033;133;-72.895917;-7.6258884;suburb
+Guarani;120033;983;-72.882058;-7.6273777;suburb
+Brasilia;120033;130;-72.972177;-7.6333994;farm
+Cezario;120033;91;-72.866094;-7.6334887;allotments
+Virginio;120033;248;-72.872444;-7.64035;allotments
+Generosa;120033;47;-72.955044;-7.6426556;allotments
+Nova Lição;120033;70;-73.306424;-7.64287;hamlet
+Tonico;120033;120;-73.037885;-7.64461;farm
+Pe-Da-Terra;120033;443;-72.838726;-7.6490446;allotments
+Recordacao;120033;42;-72.808126;-7.6504884;hamlet
+Jose Bernardo;120033;77;-72.888594;-7.6530449;allotments
+Batoque;120033;130;-72.929966;-7.65387;allotments
+Santo Antonio;120033;190;-72.867113;-7.6586448;allotments
+Barro Vermelho;120033;50;-73.312494;-7.6760223;hamlet
+Polo-Agroflorestal;120033;135;-72.963551;-7.6919668;allotments
+Porto Rico;120033;18;-73.323068;-7.70375;hamlet
+Bom Sossego;120033;228;-73.349779;-7.7292226;hamlet
+Bom Jesus;120033;45;-73.386176;-7.7963885;hamlet
+Queimadas;120033;61;-73.407227;-7.8517772;hamlet
+Ponte Bela;120033;31;-73.448559;-7.8736227;hamlet
+Santa Julia;120034;136;-69.455991;-9.05527;village
+Apui;120034;50;-69.444771;-9.06442;village
+Buaçu;120034;95;-69.4907;-9.08568;village
+Santo Amaro;120034;80;-69.501338;-9.09159;village
+Bela Vista;120034;28;-69.494225;-9.09161;village
+Morada Nova;120043;77;-69.553884;-9.04529;village
+Nova Fronteira;120043;233;-69.593774;-9.05088;village
+Novo Recreio;120043;123;-69.563337;-9.05104;village
+Nova Alianca;120043;131;-69.552992;-9.05297;village
+Novo Gericó;120043;28;-69.541552;-9.05406;village
+Nova Famï¿¿Lia;120043;162;-69.552339;-9.05584;village
+Nova Fortaleza;120043;73;-69.583774;-9.06221;village
+Nova Moema;120043;96;-70.040774;-9.06364;village
+Nova Liberdade;120043;18;-69.531994;-9.06399;village
+Novo Lugar;120043;100;-70.024338;-9.06436;village
+6 De Julho;120043;38;-70.064883;-9.06483;village
+Dois Irmaos;120043;58;-70.083551;-9.08129;village
+São Francisco;120043;66;-70.092446;-9.08354;village
+Tucandeira;120043;17;-70.104949;-9.08458;village
+Porto Alegre;120043;65;-70.141887;-9.09395;village
+Povo Vencedor;120043;36;-70.120551;-9.09416;village
+Novo Marinho;120043;145;-70.131001;-9.10239;village
+Porto Rico;120043;152;-70.1501;-9.11114;village
+Sao Vicente;120043;52;-70.160333;-9.11264;village
+Nova Mudanï¿¿A;120043;77;-70.1654;-9.12107;village
+Nova Vida;120043;49;-70.155223;-9.12287;village
+Santo Antonio;120043;65;-70.125666;-9.12566;village
+Paxiuba;120043;48;-70.171885;-9.13306;village
+Cumarú;120043;37;-70.182332;-9.14198;village
+Sobral;120043;123;-70.192113;-9.14538;hamlet
+Maronawa;120043;159;-70.203008;-9.16441;village
+Nova Vera;120043;17;-70.210997;-9.17325;village
+Carolina;120043;52;-70.214445;-9.18286;village
+Nazare;120043;55;-70.232115;-9.18532;village
+Vista Alegre;120043;21;-70.1942;-9.19442;village
+Prainha;120043;181;-70.245774;-9.20339;village
+Riozinho;120043;15;-70.231557;-9.20404;village
+Canamari;120043;84;-70.24498184;-9.2117284;village
+Estirão Ii Jaminawá;120043;43;-70.304332;-9.28448;village
+Olaria - Rio Solimoes;130002;31;-64.80157979;-3.211913119;village
+Perseverança - Rio Solimoes;130002;86;-64.78993901;-3.222947779;village
+Centro;130006;1624;-68.20037885;-3.360282226;suburb
+Nova Italia (Igarapé Acuruí );130006;1048;-68.22394439;-3.4075857;village
+Socó [Abreu] (Lago Do Anama);130008;40;-61.77077778;-3.437472222;farm
+Jauari (Parana Do Repartimento);130008;32;-61.307936;-3.442785559;village
+Vila Bom Jardim (Parana Do Repatimento);130008;143;-61.31762866;-3.468363447;hamlet
+Fé Em Deus ( Parana Do Repartimento);130008;73;-61.33753887;-3.476734005;village
+Clareira-25 [Gasoduto] (Lago Do Anama);130008;40;-61.50792905;-3.476802779;isolated_dwelling
+Vila De Arixi (Lago Do Anama);130008;460;-61.509887;-3.4768335;hamlet
+São Jorge ( Parana Do Repartimento);130008;61;-61.34727789;-3.479988333;village
+Barroso (Lago Do Anamã);130008;68;-61.46208071;-3.495012889;village
+Primavera (Lago Do Anama);130008;102;-61.72164221;-3.5041184;village
+Comunidade São Benedito (Parana Do Repartimento);130008;50;-61.35759978;-3.518973331;village
+Costa Do Marajá -Sao Paulo(Parana Anama);130008;144;-61.37082617;-3.540774556;village
+Costa Do Gravetão (Parana Anama);130008;37;-61.42333435;-3.5502218;village
+Vila Mato Grosso (Lago Do Anama);130008;186;-61.693967;-3.5726006;hamlet
+Cidade De Anama ( Centro );130008;3094;-61.40616805;-3.580665663;town
+São Sebastião;130008;110;-61.37343333;-3.5812222;village
+Com. São Raimundo (Estr. Anori-Mato Grosso) Km.13 Ao 18;130008;68;-61.68352791;-3.6127425;farm
+Estr. Anori-Codajas (Km 1 Ao 4);130008;15;-61.69944831;-3.642407226;farm
+São Raimundo;130010;16;-61.68352791;-3.6127425;farm
+Maracanã - Pnã. Do São Tomé (Rio Purus - Me);130010;48;-61.65908604;-3.657661333;farm
+Estrada Anori-Codajás-Mato Grosso Km 9;130010;28;-61.65782337;-3.666840445;farm
+Estrada Anori-Codajás-Mato Grosso Km 8;130010;10;-61.65923481;-3.674533774;farm
+Estrada Anori-Codajás-Mato Grosso Km 7;130010;32;-61.65914707;-3.6839086;farm
+Estrada Anori-Codajás-Mato Grosso Km 6;130010;12;-61.65651112;-3.691877002;farm
+Costa Do Purus (Rio Solimões - Md);130010;292;-61.48403333;-3.695333333;village
+Estrada Anori-Codajás-Matogrosso Km 5;130010;2;-61.65983372;-3.7030222;farm
+Estrada Anori-Codajás-Mato Grosso Km 4;130010;8;-61.65862446;-3.708470772;farm
+Ramal Do Mirim (Est. Anori-Codajás-Mato Grosso Km. 2);130010;10;-61.65978241;-3.716918446;farm
+Estrada Anori-Codajás-Mato Grosso Km 3;130010;7;-61.65826588;-3.717188997;farm
+Estrada Anori-Codajás-Matogrosso Km 2;130010;3;-61.65677815;-3.726107002;farm
+Aeroporto (Estr. Anori-Codajás-Mato Grosso Km. 1);130010;8;-61.665321;-3.7272772;farm
+Nova Esperança - Parana Do Pão (Rio Solimões - Md);130010;75;-61.53388333;-3.728266666;farm
+Santa Maria (Lago Do Anori);130010;23;-61.64131165;-3.732589224;village
+Estrada Anori-Codajás-Mato Grosso Km 1;130010;88;-61.65582066;-3.733690116;city_block 
+Bairro São José;130010;111;-61.66191249;-3.734304224;suburb
+São Jorge - Gabriel (Rio Solimões - Me);130010;150;-61.55536667;-3.7366666;village
+Anori Açu (Lago Do Anori);130010;3;-61.73341692;-3.739882331;farm
+Bairro São Sebastião;130010;989;-61.64793396;-3.742385662;suburb
+Bairro São João;130010;1308;-61.65657498;-3.743237334;suburb
+Mirim (Lago Do Anori);130010;10;-61.70429757;-3.743544003;farm
+Bairro Japão;130010;1165;-61.66221717;-3.745529228;suburb
+Bairro Centro;130010;1245;-61.65798347;-3.745551116;suburb
+Bairro Santo Antonio;130010;332;-61.66493752;-3.745671336;suburb
+Bairro Antônio Carlos;130010;625;-61.66493752;-3.745671336;suburb
+Costa Do Ambé (Rio Solimões - Md);130010;500;-61.5572;-3.747916666;village
+Bairro São Carlos;130010;1790;-61.65518057;-3.748062446;suburb
+Bairro Vila Isabel;130010;825;-61.65285509;-3.751580778;suburb
+Igarape Açu (Lago Do Anori);130010;0;-61.63545143;-3.751901002;farm
+Vila Do Anori (Lago Do Anori);130010;115;-61.63586667;-3.768966666;hamlet
+Ilha Do Ambé (Rio Solimões - Md);130010;200;-61.5947;-3.77449;village
